@@ -1,8 +1,8 @@
 /*************************************************************************************
- *     Program name: Lab07.cpp
+ *     Program name: Embedded Pager System
  *          Version: 2.2
  *             Date: Feb 11, 2017 / Mar 29, 2024
- *           Author: Greg Nordstrom, John Hutton
+ *           Author: Dr. Greg Nordstrom, Dr. John Hutton
  *         Modified: Hayden Berry
  *             Date: Apr 18, 2024
  *         Platform: ESP32
