@@ -1,4 +1,4 @@
-// This file accompanies the Lab07.cpp program
+// This file accompanies the pager.cpp program
 // A simple ESP32 messaging system using MQTT
 
 // system defines
